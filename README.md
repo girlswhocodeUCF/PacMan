@@ -1,6 +1,10 @@
 # Pacman Game in C
 
 ## Developers
+[Nati]
+[Harmony]
+![alt text](https://github.com/samsannchez.png)
+[Sam Sanchez Juarez](https://github.com/samsannchez)
 
 ## Demo
 [Run game on Replit!](https://replit.com/@sa830042/PacMan-Game)
