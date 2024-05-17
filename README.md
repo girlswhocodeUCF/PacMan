@@ -1,4 +1,8 @@
 # Pacman Game in C
+
+## Developers
+
+## Project Description
 ![alt text](Presentation/1.png)
 ![alt text](Presentation/2.png)
 ![alt text](Presentation/3.png)
