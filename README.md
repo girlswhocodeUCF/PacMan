@@ -3,7 +3,7 @@
 ## Developers
 
 ## Demo
-[Fork our replit here](https://replit.com/@sa830042/PacMan-Game)
+[Run game on Replit!](https://replit.com/@sa830042/PacMan-Game)
 
 ## Project Description
 ![alt text](Presentation/1.png)
