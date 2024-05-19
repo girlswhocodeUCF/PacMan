@@ -1,20 +1,17 @@
 # Pacman Game in C
 
-## Developers
-<div>
-  <img src="https://github.com/dxvinelight.png" width="100px;"/>
-  &emsp;  &emsp;  &emsp;
-  <img src="https://github.com/HarmonyH27.png" width="100px;"/>
-  &emsp;  &emsp;  &emsp;
-  <img src="https://github.com/samsannchez.png" width="100px;"/>
+## Development Team
 
-  <br />
-  <sub><a href="https://github.com/Ayla-T">Nathalia Negron-Martinez</a></sub>
-  &emsp;
-  <sub><a href="https://github.com/rmai21">Harmony Hamilton</a></sub>
-  &emsp;
-  <sub><a href="https://github.com/ca764763">Sam Sanchez Juarez</a></sub>
-</div>
+| Name              | GitHub                                                      |   Email                                   |
+| ----------------- | ----------------------------------------------------------- |   --------------------------------------- |
+| Nathalia Negron-Martinez    | [GitHub: @Ash515](https://github.com/dxvinelight)                |  [:envelope:](theyoungtech515@gmail.com) |
+| Harmony Hamilton   | [GitHub: @rosekamallove](https://github.com/HarmonyH27)  |  [✉️](rosekamallove@gmail.com)            |
+
+## Mentor
+
+| Name              | GitHub                                                      |   
+| ----------------- | ----------------------------------------------------------- |  
+| Sam Sanchez Juarez  | [GitHub: @Ash515](https://github.com/samsannchez)       |          
 
 ## Demo
 [Run game on Replit!](https://replit.com/@sa830042/PacMan-Game)
