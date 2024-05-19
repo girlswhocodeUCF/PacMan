@@ -16,7 +16,7 @@
 ## Demo
 [Run game on Replit!](https://replit.com/@sa830042/PacMan-Game)
 
-## Project Description
+## About 
 ![alt text](Presentation/1.png)
 ![alt text](Presentation/2.png)
 ![alt text](Presentation/3.png)
