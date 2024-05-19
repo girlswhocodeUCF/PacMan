@@ -25,4 +25,3 @@
 ![alt text](Presentation/6.png)
 ![alt text](Presentation/7.png)
 ![alt text](Presentation/8.png)
-![alt text](Presentation/9.png)
