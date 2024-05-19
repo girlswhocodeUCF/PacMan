@@ -2,16 +2,16 @@
 
 ## Developers
 <div>
-  <img src="https://github.com/samsannchez.png" width="80px;"/>
+  <img src="https://github.com/dxvinelight.png" width="80px;"/>
   &emsp;
-  <img src="https://github.com/rmai21.png" width="80px;"/>
+  <img src="https://github.com/HarmonyH27.png" width="80px;"/>
   &emsp;
   <img src="https://github.com/samsannchez.png" width="80px;"/>
   &emsp;
   <br />
-  <sub><a href="https://github.com/Ayla-T">Ayla Tristao</a></sub>
+  <sub><a href="https://github.com/Ayla-T">Nathalia Negron-Martinez</a></sub>
   &emsp;&emsp;
-  <sub><a href="https://github.com/rmai21">Rajvi Maisuria</a></sub>
+  <sub><a href="https://github.com/rmai21">Harmony Hamilton</a></sub>
   &emsp;
   <sub><a href="https://github.com/ca764763">Sam Sanchez Juarez</a></sub>
 </div>
