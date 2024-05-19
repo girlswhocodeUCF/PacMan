@@ -3,11 +3,11 @@
 ## Developers
 <div>
   <img src="https://github.com/dxvinelight.png" width="100px;"/>
-  &emsp;  &emsp;
+  &emsp;  &emsp;  &emsp;
   <img src="https://github.com/HarmonyH27.png" width="100px;"/>
-  &emsp;  &emsp;
+  &emsp;  &emsp;  &emsp;
   <img src="https://github.com/samsannchez.png" width="100px;"/>
-  &emsp;  &emsp;
+
   <br />
   <sub><a href="https://github.com/Ayla-T">Nathalia Negron-Martinez</a></sub>
   &emsp;
