@@ -2,11 +2,11 @@
 
 ## Developers
 <div>
-  <img src="https://github.com/dxvinelight.png" width="100px;"/>
+  <img style="padding-right: 0.2em" src="https://github.com/dxvinelight.png" width="100px;"/>
 
-  <img src="https://github.com/HarmonyH27.png" width="100px;"/>
+  <img style="padding-right: 0.2em" src="https://github.com/HarmonyH27.png" width="100px;"/>
 
-  <img src="https://github.com/samsannchez.png" width="100px;"/>
+  <img style="padding-right: 0.2em" src="https://github.com/samsannchez.png" width="100px;"/>
 
   <br />
   <sub><a href="https://github.com/Ayla-T">Nathalia Negron-Martinez</a></sub>
