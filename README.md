@@ -4,8 +4,10 @@
 <div>
   <img src="https://github.com/dxvinelight.png" width="100px;"/>
   &emsp;
+    &emsp;
   <img src="https://github.com/HarmonyH27.png" width="100px;"/>
   &emsp;
+    &emsp;
   <img src="https://github.com/samsannchez.png" width="100px;"/>
   &emsp;
   <br />
