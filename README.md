@@ -1,4 +1,5 @@
 # Pacman Game in C
+![alt text](Presentation/1.png)
 
 ## Team Members
 
@@ -17,7 +18,6 @@
 [Run game on Replit!](https://replit.com/@sa830042/PacMan-Game)
 
 ## About 
-![alt text](Presentation/1.png)
 ![alt text](Presentation/2.png)
 ![alt text](Presentation/3.png)
 ![alt text](Presentation/4.png)
