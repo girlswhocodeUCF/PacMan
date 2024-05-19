@@ -1,13 +1,13 @@
 # Pacman Game in C
 
-## Development Team
+## Team Members
 
 | Name              | GitHub                                                      | 
 | ----------------- | ----------------------------------------------------------- | 
 | Nathalia Negron-Martinez    | [@dxvinelight](https://github.com/dxvinelight)  |
 | Harmony Hamilton   | [@HarmonyH27](https://github.com/HarmonyH27)  |
 
-## Mentor
+### Mentor
 
 | Name              | GitHub                                                      |   
 | ----------------- | ----------------------------------------------------------- |  
