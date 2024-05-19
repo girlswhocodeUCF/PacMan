@@ -2,16 +2,16 @@
 
 ## Development Team
 
-| Name              | GitHub                                                      |   Email                                   |
-| ----------------- | ----------------------------------------------------------- |   --------------------------------------- |
-| Nathalia Negron-Martinez    | [GitHub: @Ash515](https://github.com/dxvinelight)                |  [:envelope:](theyoungtech515@gmail.com) |
-| Harmony Hamilton   | [GitHub: @rosekamallove](https://github.com/HarmonyH27)  |  [✉️](rosekamallove@gmail.com)            |
+| Name              | GitHub                                                      | 
+| ----------------- | ----------------------------------------------------------- | 
+| Nathalia Negron-Martinez    | [@dxvinelight](https://github.com/dxvinelight)  |
+| Harmony Hamilton   | [@HarmonyH27](https://github.com/HarmonyH27)  |
 
 ## Mentor
 
 | Name              | GitHub                                                      |   
 | ----------------- | ----------------------------------------------------------- |  
-| Sam Sanchez Juarez  | [GitHub: @Ash515](https://github.com/samsannchez)       |          
+| Sam Sanchez Juarez  | [@samsannchez](https://github.com/samsannchez)       |          
 
 ## Demo
 [Run game on Replit!](https://replit.com/@sa830042/PacMan-Game)
