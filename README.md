@@ -1,18 +1,12 @@
-# Pacman Game in C
+# PacMan Game in C
 ![alt text](Presentation/1.png)
 
 ## Team Members
 
 | Name              | GitHub                                                      | 
 | ----------------- | ----------------------------------------------------------- | 
-| Helena Canova    | [@dxvinelight](https://github.com/dxvinelight)  |
-| Isabela Colorado   | [@HarmonyH27](https://github.com/HarmonyH27)  |
-| Dony Huynh   | [@HarmonyH27](https://github.com/HarmonyH27)  |
-| Dony Huynh   | [@HarmonyH27](https://github.com/HarmonyH27)  |
-
-
-
-
+| Nathalia Negron-Martinez    | [@dxvinelight](https://github.com/dxvinelight)  |
+| Harmony Hamilton   | [@HarmonyH27](https://github.com/HarmonyH27)  |
 
 ### Mentor
 
@@ -21,7 +15,7 @@
 | Sam Sanchez Juarez  | [@samsannchez](https://github.com/samsannchez)       |          
 
 ## Demo
-[Run game on Replit!](https://replit.com/@sa830042/PacMan-Game)
+[Click here to see our demo!]([https://replit.com/@sa830042/PacMan-Game](https://cf5b0151-823b-4e63-81b3-d4c4d48d79dc-00-473v5sm7rpbu.spock.replit.dev/))
 
 ## About 
 ![alt text](Presentation/2.png)
@@ -31,3 +25,8 @@
 ![alt text](Presentation/6.png)
 ![alt text](Presentation/7.png)
 ![alt text](Presentation/8.png)
+
+
+
+
+
