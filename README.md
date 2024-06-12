@@ -15,8 +15,8 @@
 | Sam Sanchez Juarez  | [@samsannchez](https://github.com/samsannchez)       |          
 
 ## Demo
-[Click here to run our game on replit!]([https://replit.com/@sa830042/PacMan-Game])
-[Click here to run our game on the browser! (no colors)]([http://tpcg.io/_4PMK2O])
+[Click here to run our game on replit!](https://replit.com/@sa830042/PacMan-Game)
+[Click here to run our game on the browser! (no colors)](http://tpcg.io/_4PMK2O)
 
 ## About 
 ![alt text](Presentation/2.png)
