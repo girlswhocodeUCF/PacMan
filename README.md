@@ -15,7 +15,7 @@
 | Sam Sanchez Juarez  | [@samsannchez](https://github.com/samsannchez)       |          
 
 ## Demo
-[Click here to see our demo!]([https://replit.com/@sa830042/PacMan-Game](https://cf5b0151-823b-4e63-81b3-d4c4d48d79dc-00-473v5sm7rpbu.spock.replit.dev/))
+[Click here to run our game on replit!]([https://replit.com/@sa830042/PacMan-Game])
 
 ## About 
 ![alt text](Presentation/2.png)
