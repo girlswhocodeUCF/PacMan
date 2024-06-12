@@ -5,8 +5,14 @@
 
 | Name              | GitHub                                                      | 
 | ----------------- | ----------------------------------------------------------- | 
-| Nathalia Negron-Martinez    | [@dxvinelight](https://github.com/dxvinelight)  |
-| Harmony Hamilton   | [@HarmonyH27](https://github.com/HarmonyH27)  |
+| Helena Canova    | [@dxvinelight](https://github.com/dxvinelight)  |
+| Isabela Colorado   | [@HarmonyH27](https://github.com/HarmonyH27)  |
+| Dony Huynh   | [@HarmonyH27](https://github.com/HarmonyH27)  |
+| Dony Huynh   | [@HarmonyH27](https://github.com/HarmonyH27)  |
+
+
+
+
 
 ### Mentor
 
